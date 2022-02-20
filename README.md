@@ -1,4 +1,4 @@
-<h1 align="center">Hii <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I am Anshul Jangwal.</h1>
+<h1 align="left">Hii <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Anshul Jangwal.</h1>
 <a href="#"><img width="100%" height="auto" src="https://github.githubassets.com/images/modules/site/social-cards/github-social.png" height="175px"/></a>
 
 <!-- <h3 align="center">I am pursuing software develop.</h3> -->
