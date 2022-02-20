@@ -8,7 +8,7 @@
 
 ✔️ I am **Anshul Jangwal**, currently pursuing my bachelors from VIT,VELLORE in *Electronics and Communication*. <br>
 
-✔️ Experienced in Frontend development. Looking forward for the software devlopment opportunities.
+✔️ I am frontend developer and looking forward for the software devlopment opportunities.
 
 - 🔭 Currently doing **[Leetcode](https://leetcode.com/anshuljangwal/)**
 
