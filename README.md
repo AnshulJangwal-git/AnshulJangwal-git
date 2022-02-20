@@ -1,10 +1,12 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hii <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Anshul Jangwal</h1>
+<h1 align="center">Hii <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Thanks for having you here.</h1>
 <!-- <h3 align="center">I am pursuing software develop.</h3> -->
 
 
 ## 🙋‍♂️ About Me
+
+✔️ I am **Anshul Jangwal**, currently pursuing my bachelors from VIT,VELLORE in *Electronics and Communication*. <br>
 
 - 🔭 I’m currently doing **[Leetcode](https://leetcode.com/anshuljangwal/)**
 
