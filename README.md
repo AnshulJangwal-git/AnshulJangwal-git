@@ -8,11 +8,13 @@
 
 ✔️ I am **Anshul Jangwal**, currently pursuing my bachelors from VIT,VELLORE in *Electronics and Communication*. <br>
 
-- 🔭 I’m currently doing **[Leetcode](https://leetcode.com/anshuljangwal/)**
+✔️ Experienced in Frontend development. Looking forward for the software devlopment opportunities.
 
-- 🌱 I’m currently learning **Web Development**
+- 🔭 Currently doing **[Leetcode](https://leetcode.com/anshuljangwal/)**
 
-- 📫 How to reach me **anshuljangwal006@gmail.com**
+- 🌱 And learning **Full-Stack Web Development**
+
+- 📫 Reach me at **anshuljangwal006@gmail.com**
 
 ## 🚀 Languages and Tools:
 
