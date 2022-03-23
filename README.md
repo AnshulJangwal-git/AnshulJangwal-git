@@ -1,13 +1,4 @@
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Anshul Jangwal!] 
-✔️ I am **Anshul Jangwal**, currently pursuing my bachelors from VIT,VELLORE in *Electronics and Communication*. <br>
-
-✔️ I am frontend developer and looking forward for the software devlopment opportunities.
-
-- 🔭 Currently doing **[Leetcode](https://leetcode.com/anshuljangwal/)**
-
-- 🌱 And learning **Full-Stack Web Development**
-
-- 📫 Reach me at **anshuljangwal006@gmail.com**
 
 <a href="https://www.linkedin.com/in/anshul-jangwal/">
   <img align="left" width="24px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  />
@@ -21,6 +12,16 @@
 <a href="https://www.instagram.com/anshul.jangwal/">
   <img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" />
 </a>
+<br/>
+✔️ I am **Anshul Jangwal**, currently pursuing my bachelors from VIT,VELLORE in *Electronics and Communication*. <br>
+
+✔️ I am frontend developer and looking forward for the software devlopment opportunities.
+
+- 🔭 Currently doing **[Leetcode](https://leetcode.com/anshuljangwal/)**
+
+- 🌱 And learning **Full-Stack Web Development**
+
+- 📫 Reach me at **anshuljangwal006@gmail.com**
 
 <br />
 <br/>
