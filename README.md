@@ -29,4 +29,3 @@
   <br/>
 <br/>
 <br/>
-![](https://visitor-badge.glitch.me/badge?page_id=anshuljangwal-git.anshuljangwal-git)
