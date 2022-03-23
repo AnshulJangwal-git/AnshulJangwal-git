@@ -4,7 +4,7 @@
 <!-- <h3 align="center">I am pursuing software develop.</h3> -->
 
 
-## 🙋‍♂️ About Me
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Anshul Jangwal!](https://bio.link/kunalk) 
 
 ✔️ I am currently pursuing my bachelors from VIT,VELLORE in *Electronics and Communication*. <br>
 
