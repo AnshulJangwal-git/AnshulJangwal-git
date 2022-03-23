@@ -13,6 +13,7 @@
   <img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" />
 </a>
 <br/>
+<br/>
 ✔️ I am **Anshul Jangwal**, currently pursuing my bachelors from VIT,VELLORE in *Electronics and Communication*. <br>
 
 ✔️ I am frontend developer and looking forward for the software devlopment opportunities.
