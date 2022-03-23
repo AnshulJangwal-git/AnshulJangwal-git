@@ -1,4 +1,4 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Anshul Jangwal!](https://leetcode.com/anshuljangwal/) 
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Anshul Jangwal!] 
 
 
 <a href="https://www.linkedin.com/in/anshul-jangwal/">
