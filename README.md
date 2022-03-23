@@ -4,9 +4,9 @@
 
 ✔️ I am frontend developer and looking forward for the software devlopment opportunities.
 
-- 🔭 Currently doing **[Leetcode](https://leetcode.com/anshuljangwal/)**
+<!-- - 🔭 Currently doing **[Leetcode](https://leetcode.com/anshuljangwal/)**
 
-- 🌱 And learning **Full-Stack Web Development**
+- 🌱 And learning **Full-Stack Web Development** -->
 
 - 📫 Reach me at **anshuljangwal006@gmail.com**
 
