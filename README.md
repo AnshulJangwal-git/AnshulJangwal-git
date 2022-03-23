@@ -25,13 +25,15 @@
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Anshul Jangwal's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AnshulJangwal-git&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p> -->
-<br/>
-<br/>
 <!-- 
   <br/>
 
     <a href="https://github.com/AnshulJangwal-git/github-readme-stats"><img alt="Anshul Jangwal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AnshulJangwal-git&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a> -->
-  <a align="center" href="https://github.com/AnshulJangwal-git/github-readme-stats"><img alt="Anshul Jangwal's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnshulJangwal-git&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <br/>
+    <br/>
+  <p align = "center">  
+  <a href="https://github.com/AnshulJangwal-git/github-readme-stats"><img alt="Anshul Jangwal's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnshulJangwal-git&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  </p>
   <br/>
   
   
