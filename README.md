@@ -1,20 +1,4 @@
-<!-- <h1 align="left">Hii <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Anshul Jangwal.</h1>
-<a href="#"><img width="100%" height="auto" src="https://github.githubassets.com/images/modules/site/social-cards/github-social.png" height="175px"/></a>
- -->
-<!-- <h3 align="center">I am pursuing software develop.</h3> -->
-
-
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Anshul Jangwal!](https://leetcode.com/anshuljangwal/) 
-
-✔️ I am currently pursuing my bachelors from VIT,VELLORE in *Electronics and Communication*. <br>
-
-✔️ I am frontend developer and looking forward for the software devlopment opportunities.
-
-- 🔭 Currently doing **[Leetcode](https://leetcode.com/anshuljangwal/)**
-
-- 🌱 And learning **Full-Stack Web Development**
-
-- 📫 Reach me at **anshuljangwal006@gmail.com**
 <br/>
 <br/>
 
@@ -79,14 +63,6 @@
 
 <br/>
 <br/>
-
-## Connect with me:
-<p align="center">
-
-<a href = "https://www.linkedin.com/in/anshul-jangwal/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/AnshulJangwal_"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/anshul.jangwal/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-</p>
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
