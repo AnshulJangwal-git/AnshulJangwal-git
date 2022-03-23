@@ -29,9 +29,4 @@
   <br/>
 <br/>
 <br/>
-
-## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=AnshulJangwal-git">
-</a>
-<a href="https://github.com/AnshulJangwal-git?tab=followers"><img src="https://img.shields.io/github/followers/AnshulJangwal-git?label=Followers&style=social" alt="GitHub Badge"></a>
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=kunal-kushwaha.kunal-kushwaha)
