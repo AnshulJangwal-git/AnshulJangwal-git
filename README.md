@@ -17,8 +17,8 @@
 <br />
 <br/>
 
-<p align="right"><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=sanchitvj&theme=radical" alt="sanchitvj" width="400" /></p>
-<p align="left"> <img align="left" src="https://github-readme-stats.vercel.app/api?username=sanchitvj&show_icons=true&locale=en&theme=blue-green" alt="sanchitvj" width="400" /></p>  
+<p align="right"><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=anshuljangwal-git&theme=radical" alt="anshuljangwal-git" width="400" /></p>
+<p align="left"> <img align="left" src="https://github-readme-stats.vercel.app/api?username=anshuljangwal-git&show_icons=true&locale=en&theme=blue-green" alt="anshuljangwal-git" width="400" /></p>  
 
 <!-- <p align="center">
     <a href="https://github.com/AnshulJangwal-git/github-readme-streak-stats">
