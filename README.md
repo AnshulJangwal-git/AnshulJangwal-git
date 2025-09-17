@@ -8,7 +8,7 @@
 
 - 🌱 And learning **Full-Stack Web Development** -->
 
-- 📫 Reach me at **anshuljangwal006@gmail.com**
+- 📫 Reach me at **anshuljangwal@gmail.com**
 
 <br />
 <br/>
