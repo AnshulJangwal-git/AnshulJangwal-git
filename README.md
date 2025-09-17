@@ -1,8 +1,8 @@
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Anshul Jangwal!] 
 
-✔️ I am **Anshul Jangwal**, currently pursuing my bachelors from VIT,VELLORE in *Electronics and Communication*. <br>
+✔️ I am **Anshul Jangwal**, completed by bachelors from VIT,VELLORE in *Electronics and Communication*. <br>
 
-✔️ I am frontend developer and looking forward for the software devlopment opportunities.
+✔️ I am Java-Backend Developer at Netcracker Technology.
 
 <!-- - 🔭 Currently doing **[Leetcode](https://leetcode.com/anshuljangwal/)**
 
